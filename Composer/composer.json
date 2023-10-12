@@ -1,0 +1,21 @@
+{
+    "name": "nezorinegor/composer-package",
+    "description": "composer example",
+    "authors": [
+        {
+            "name": "Egor Zorin",
+            "email": "zorin-ep@main.ru"
+        }
+    ],
+    "require": {
+        "leon-mbs/zdb": "^1.5.11",
+        "psr/simple-cache": "^3.0.0",
+        "mk-j/php_xlsxwriter": "^0.39",
+        "setasign/fpdf": "^1.8.6",
+        "worksome/verify-by-phone": "^0.3.1",
+        "abuseio/notification-mail": "^3.0.7",
+        "league/flysystem": "^3.17.0",
+        "lapaygroup/russianpost": "^0.9.21",
+        "phpunit/phpunit": "^10.4.1"
+    }
+}
